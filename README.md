@@ -12,7 +12,7 @@ A Python tool that automatically organizes Facebook screenshots into professiona
 
 ### **Professional PDF Generation**
 - **Date-Based Organization**: Automatically groups screenshots by date from filename timestamps
-- **Dynamic Filename Generation**: Creates descriptive filenames like `LilibethLaygo - August 1 - August 26.pdf`
+- **Dynamic Filename Generation**: Creates descriptive filenames like `NickoLaygo - August 1 - August 26.pdf`
 - **Responsive Layout**: Fits 3 images per page in landscape A4 format with proper aspect ratio preservation
 - **Multi-Page Support**: Handles large collections with automatic pagination
 
